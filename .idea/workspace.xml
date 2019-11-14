@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e486016d-b591-4c03-a125-2547b7659e1c" name="Default Changelist" comment="" />
+    <list default="true" id="e486016d-b591-4c03-a125-2547b7659e1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chronopost/Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/chronopost/Order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test.ChronopostTest.testGetRow">
+  <component name="RunManager" selected="Python tests.Unittests for test.ChronopostTest.testGetChronopostFile">
     <configuration name="Unittests for test.ChronopostTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="chronopost-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,8 +123,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for test.ChronopostTest.testGetRow" />
         <item itemvalue="Python tests.Unittests for test.ChronopostTest.testGetChronopostFile" />
+        <item itemvalue="Python tests.Unittests for test.ChronopostTest.testGetRow" />
         <item itemvalue="Python tests.Unittests for test.ChronopostTest.testCreateNewOrder" />
         <item itemvalue="Python tests.Unittests for test.ChronopostTest.testGetHeader" />
         <item itemvalue="Python tests.Unittests for test.ChronopostTest" />
@@ -140,11 +144,23 @@
       <workItem from="1573565406841" duration="1962000" />
       <workItem from="1573567377006" duration="12614000" />
       <workItem from="1573643191714" duration="1823000" />
+      <workItem from="1573741674166" duration="5737000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -158,9 +174,9 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/chronopost_python$Unittests_for_test_ChronopostTest_testGetRow.coverage" NAME="Unittests for test.ChronopostTest.testGetRow Coverage Results" MODIFIED="1573644616345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chronopost_python$Unittests_for_test_ChronopostTest_testGetRow.coverage" NAME="Unittests for test.ChronopostTest.testGetRow Coverage Results" MODIFIED="1573743268045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chronopost_python$Unittests_for_test_ChronopostTest.coverage" NAME="Unittests for test.ChronopostTest Coverage Results" MODIFIED="1573566227134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/chronopost_python$Unittests_for_test_ChronopostTest_testGetChronopostFile.coverage" NAME="Unittests for test.ChronopostTest.testGetChronopostFile Coverage Results" MODIFIED="1573644546205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chronopost_python$Unittests_for_test_ChronopostTest_testGetChronopostFile.coverage" NAME="Unittests for test.ChronopostTest.testGetChronopostFile Coverage Results" MODIFIED="1573743273619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chronopost_python$Unittests_for_test_ChronopostTest_testCreateNewOrder.coverage" NAME="Unittests for test.ChronopostTest.testCreateNewOrder Coverage Results" MODIFIED="1573581010566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/chronopost_python$Unittests_for_test_ChronopostTest_testGetHeader.coverage" NAME="Unittests for test.ChronopostTest.testGetHeader Coverage Results" MODIFIED="1573571142366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
